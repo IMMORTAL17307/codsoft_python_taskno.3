@@ -4,6 +4,7 @@ An interactive Python console game allowing users to play Rock, Paper, Scissors 
 
 ### 👨‍💻 Developer Details
 * **Name:** Ishant Khare
+* **Domain:** Python Programming
 * **Company:** CodSoft
 
 ### 🎯 Objective
